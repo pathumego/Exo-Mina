@@ -1,7 +1,7 @@
 safe: false
 lsi: false
 pygments: true
-baseurl: http://pathumego.github.io/
+baseurl: http://pathumego.github.io/Exo-Mina
 
 # Custom vars
 version:             0.0.1
