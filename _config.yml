@@ -1,0 +1,10 @@
+safe: false
+lsi: false
+pygments: true
+baseurl: http://pathumego.github.io/
+
+# Custom vars
+version:             0.0.1
+
+exclude:
+  - README.md
